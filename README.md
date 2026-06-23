@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# Exploratory Data Analysis
 Amazing visualizations for categorical and continuous variables
 
 ## Overview
